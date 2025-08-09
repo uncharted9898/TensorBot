@@ -1,0 +1,19 @@
+{
+  "name": "tensordock-bot",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "qs": "latest",
+    "request": "latest",
+    "discord.js": "latest",
+    "dotenv": "latest",
+    "node-cron": "latest",
+    "sprintf-js": "latest"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
