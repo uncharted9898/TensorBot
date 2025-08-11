@@ -28,7 +28,7 @@ TensorBot v3 is a powerful Discord bot designed to monitor and display real-time
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/TensorBot.git
+git clone https://github.com/uncharted9898/TensorBot.git
 cd TensorBot
 ```
 
@@ -54,7 +54,7 @@ GUILD_ID=your-discord-guild-id
 Start the bot with:
 
 ```bash
-node index.js
+node app.js
 ```
 
 The bot will automatically log in and begin periodic updates every 5 minutes.
