@@ -59,14 +59,16 @@ node app.js
 
 The bot will automatically log in and begin periodic updates every 5 minutes.
 
+![tensorbot2](https://github.com/user-attachments/assets/d7622b2e-f9cc-4149-81bd-df834d48e1aa)
+
+![tensorbot1](https://github.com/user-attachments/assets/07199bcf-4389-4956-bd1e-1976bf2b5a82)
+
 ---
 
 ## Configuration
 
 - Replace the environment variable values with your actual tokens and IDs.
 - Ensure the bot has permissions to create channels, send messages, and delete messages within your guild.
-
-
 
 ## Notes
 
